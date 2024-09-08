@@ -2,24 +2,19 @@
 // Q1
 let length =5;
 let width =3
-
 let area = length * width 
 console.log(area);
 
 //Q2
 
-let cel = 20; 
-let fahr = (cel * 9/5) + 32;
-console.log(`${cel}°C ${fahr}°F`);
-fahr = 50; 
-cel = (fahr - 32) * 5/9;
-console.log(`${fahr}°F  ${cel}°C`);
-
-
+let tem = 50
+console.log((40 * 9/5) + 32,"°f")
+let fhr = 104
+console.log((fhr - 32) * 5/9,"°c")
 
 // Q3
 
-let hour = 1; 
+let hour = 2; 
 let second = hour * 600; 
 console.log(`${hour} hour = ${second} second`);
 
