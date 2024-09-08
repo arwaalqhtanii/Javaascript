@@ -3,14 +3,14 @@
 let length =5;
 let width =3
 let area = length * width 
-console.log(area);
+console.log( area);
 
 //Q2
 
 let tem = 50
-console.log((40 * 9/5) + 32,"°f")
+console.log((40 * 9/5) + 32)
 let fhr = 104
-console.log((fhr - 32) * 5/9,"°c")
+console.log((fhr - 32) * 5/9)
 
 // Q3
 
