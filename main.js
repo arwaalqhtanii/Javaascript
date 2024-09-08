@@ -9,7 +9,7 @@ console.log( area);
 
 let tem = 50
 console.log((40 * 9/5) + 32)
-let fhr = 104
+let fhr = 100
 console.log((fhr - 32) * 5/9)
 
 // Q3
