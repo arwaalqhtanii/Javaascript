@@ -3,14 +3,15 @@
 let length =5;
 let width =3
 let area = length * width 
-console.log( area);
+console.log( "The Area of Reqtangle = "+area);
 
 //Q2
 
-let tem = 50
-console.log((40 * 9/5) + 32)
-let fhr = 100
-console.log((fhr - 32) * 5/9)
+let temp = 70
+console.log("70°C is", (70 * 9/5) + 32,"°f")
+
+let f = 100
+console.log("100°f is", (f - 32) * 5/9,"°c")
 
 // Q3
 
